@@ -46,7 +46,8 @@ henavg =  str(round(average8,2)) + " Henry"
 namesaverge = [bobavg,jackavg,janeavg,peteavg,annavg,aliavg,johnavg,benavg,henavg]
 namesaverge.sort(reverse=True)
 print(namesaverge)
-<img width="1920" height="1080" alt="PycharmAssignment2Screenshot" src="https://github.com/user-attachments/assets/91fae7c9-3adb-4449-873b-ea9b21fe0759" />
+<img width="1920" height="1080" alt="PycharmAssignment2OutputScreenshot" src="https://github.com/user-attachments/assets/51926841-6b19-4811-b5bd-8fde9d2a86cb" />
+
 
 
 
