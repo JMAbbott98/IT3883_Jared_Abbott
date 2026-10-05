@@ -20,5 +20,6 @@ while True:
     else:
        print("Program Exited")
        break
-       <img width="1920" height="1080" alt="PycharmAssignmnt1Screenshot" src="https://github.com/user-attachments/assets/ad0e04e4-83c0-4802-ac14-06009f8d2f29" />
+<img width="1920" height="1080" alt="PycharmAssignment1OutputScreenshot" src="https://github.com/user-attachments/assets/c22418c5-e569-4769-9874-82b854c0b2bb" />
+
 
