@@ -14,6 +14,7 @@ while True:
     programB, addr = programA.accept()
     programB.send(userInput.encode())
     print(programB.recv(1024).decode())
+	break
 
 import socket
 programB = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -22,5 +23,6 @@ talk = programB.recv(1024).decode()
 programB.send(talk.upper().encode())
 print(talk)
 
-<img width="1920" height="1080" alt="ProgramAOutput" src="https://github.com/user-attachments/assets/af6d5f69-fb78-4973-a549-49b41e2cccea" />
+<img width="1920" height="1080" alt="ProgramAOutput(1)" src="https://github.com/user-attachments/assets/c08f99bf-ce42-42a8-8a54-6e2d1558d750" />
+
 <img width="1920" height="1080" alt="ProgramBOutput" src="https://github.com/user-attachments/assets/6dc2cfbc-e153-49b1-8373-51c28b7df26e" />
