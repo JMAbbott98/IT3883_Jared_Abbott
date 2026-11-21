@@ -13,6 +13,7 @@
     # https://keycombiner.com/collections/notepad/
     # https://www.youtube.com/watch?v=Ohj-CqALrwk
     # https://www.youtube.com/watch?v=j1DYBOobM8s
+	# De'Eric Burns Tutoring 
 import sqlite3 # this imports the sql package to python
 conn = sqlite3.connect('assignment5.db') # This built the local database
 z = conn.cursor() # this helps the program execute SQL commands
